@@ -31,8 +31,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRYTW&layout=compact&theme=tokyonight" /> &nbsp;
-  <img src="https://i.imgur.com/Vz5jXof.gif" width="80px" height="80px">
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRYTW&layout=compact&theme=tokyonight" /> &nbsp; -->
+  <img src="https://i.imgur.com/Vz5jXof.gif" width="100px" height="100px">
 </p>
 
 &nbsp;
